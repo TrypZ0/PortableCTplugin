@@ -1,0 +1,7 @@
+name: PortableCTplugin
+version: 1.0
+author: TrypZo
+main: com.trypzo.portablectplugin.PortableCTplugin
+api-version: 1.18
+
+
